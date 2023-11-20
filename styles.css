@@ -1,0 +1,33 @@
+body{
+    font-family:'Roboto', sans-serif;
+}
+.navbar{
+    background-color: brown;
+}
+.nav .nav-link.active{
+    background-color: white;
+    color: brown;
+}
+.nav-link,
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar-toggler{
+    background-color: burlywood;
+}
+.section-title{
+    font-family:'Pacifico', cursive ;
+}
+
+#sobre-o-restaurante{
+    background-color: rgba(165, 91, 42, 0.384);
+}
+.text-colored{
+    color: brown;  
+}
