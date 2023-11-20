@@ -4,20 +4,21 @@ body{
 .navbar{
     background-color: brown;
 }
-.nav .nav-link.active{
+#cabeçalho .nav .nav-link.active{
     background-color: white;
     color: brown;
 }
-.nav-link,
-.navbar-brand{
-    color: white;
-}
+#cabeçalho .nav .nav-link,
+.navbar-brand,
 .navbar-brand:hover{
     color: white;
 }
-.nav-link:hover{
+
+
+.navbar-brand:hover{
     color: white;
 }
+
 .navbar-toggler{
     background-color: burlywood;
 }
